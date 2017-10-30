@@ -1,4 +1,4 @@
- VALORES = input().split(" ")
+VALORES = input().split(" ")
 
 A,B,C = VALORES
 
